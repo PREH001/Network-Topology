@@ -15,7 +15,7 @@ The simulation shows how multiple computers can be interconnected through networ
 ## 📡 Network Topology
 Below is the screenshot of the LAN built in Packet Tracer:
 
-![Network Topology]Cisco Packet Tracer - C__Users_PREH_OneDrive_Documents_Cisco packet tracer assesment_Lan setup.pkt 9_18_2025 3_49_52 PM.png
+![Network Topology][Cisco Packet Tracer - C__Users_PREH_OneDrive_Documents_Cisco packet tracer assesment_Lan setup.pkt 9_18_2025 3_49_52 PM.png](https://github.com/PREH001/Network-Topology/blob/main/Cisco%20Packet%20Tracer%20-%20C__Users_PREH_OneDrive_Documents_Cisco%20packet%20tracer%20assesment_Lan%20setup.pkt%209_18_2025%203_49_52%20PM.png)
 
 ---
 
